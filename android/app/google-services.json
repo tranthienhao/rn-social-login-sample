@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "441764951158",
+    "firebase_url": "https://rnsociallogin-765dc.firebaseio.com",
+    "project_id": "rnsociallogin-765dc",
+    "storage_bucket": "rnsociallogin-765dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441764951158:android:7837bdcfa5a37037",
+        "android_client_info": {
+          "package_name": "com.rnsociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441764951158-p4nsf8rlhsjmrf3ic14pp64j826j6g10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1BHFJ6ym_HOZrTM8vTtDGGNo7Lh-4HIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441764951158-p4nsf8rlhsjmrf3ic14pp64j826j6g10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
